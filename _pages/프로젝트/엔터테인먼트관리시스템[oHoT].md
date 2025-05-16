@@ -21,7 +21,7 @@ bookmark: true
 # [프로젝트 개요]
 **프로젝트 일정**
 2025.03.28 ~ 2025.05.07
-![프로젝트일정]({{ site.baseurl }}/assets/img/pro/ems/프로젝트일정.png "프로젝트 일정")
+![프로젝트일정](/portfolio/assets/img/pro/ems/프로젝트일정.png "프로젝트 일정")
 
 **참여 인원**  
 \: 총 7인 (팀 프로젝트)  
