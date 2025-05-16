@@ -5,7 +5,7 @@ tags:
     - EMS
     - 엔터테인먼트관리시스템
 date: "2024-05-08"
-thumbnail:  "/assets/img/pro/ems/thumbnail.png"
+thumbnail:  "{{ site.baseurl }}/assets/img/pro/ems/thumbnail.png"
 bookmark: true
 ---
 # [프로젝트명]
@@ -62,23 +62,23 @@ bookmark: true
 **메인 화면**
 가입한 커뮤니티 목록과 판매 중인 굿즈를 한눈에 확인할 수 있습니다.
 로케일 설정을 통해 다양한 언어로 서비스를 이용할 수 있습니다.
-![주요화면](/assets/img/pro/ems/메인화면.png "메인화면")
+![주요화면]({{ site.baseurl }}/assets/img/pro/ems/메인화면.png "메인화면")
 
 **팬 페이지**  
 팬이 자유롭게 게시글을 작성하고, 댓글을 남기거나 아티스트 및 다른 팬을 팔로우할 수 있는 커뮤니티 공간입니다.
-![주요화면](/assets/img/pro/ems/팬페이지.png "팬페이지")
+![주요화면]({{ site.baseurl }}/assets/img/pro/ems/팬페이지.png "팬페이지")
 
 **라이브 영상 시청 페이지**  
 실시간으로 방송 중인 아티스트의 라이브를 시청할 수 있으며, 채팅 화면을 통해 다른 팬들과 소통할 수 있습니다.
-![주요화면](/assets/img/pro/ems/라이브페이지.png "라이브페이지")
+![주요화면]({{ site.baseurl }}/assets/img/pro/ems/라이브페이지.png "라이브페이지")
 
 **아티스트별 굿즈샵 화면**
 아티스트별로 운영되는 굿즈샵에서 해당 아티스트의 상품만 확인하고 구매할 수 있습니다.
-![주요화면](/assets/img/pro/ems/그룹별굿즈샵.png "그룹별굿즈샵")
+![주요화면]({{ site.baseurl }}/assets/img/pro/ems/그룹별굿즈샵.png "그룹별굿즈샵")
 
 **티켓 예매 화면**
 공연 정보를 확인하고, 원하는 좌석을 선택해 티켓팅할 수 있는 예매 전용 화면입니다.
-![주요화면](/assets/img/pro/ems/티켓팅.png "티켓팅")
+![주요화면]({{ site.baseurl }}/assets/img/pro/ems/티켓팅.png "티켓팅")
 
 ## - 담당 역할 및 기여도
 ---
